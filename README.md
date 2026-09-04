@@ -1,4 +1,6 @@
-## Hi there 👋
+#### howdy hi hello i am kendon
+
+- student @ wayne state college in wayne, nebraska. majoring in computer information systems.
 
 <!--
 **Kend0n/Kend0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
